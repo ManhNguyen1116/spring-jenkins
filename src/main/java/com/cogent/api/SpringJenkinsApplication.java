@@ -21,6 +21,7 @@ public class SpringJenkinsApplication {
 		
 		logger.info("Spring Project Executed.....");
 		logger.info("New change.");
+		logger.info("Newer change.");
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 	}
 
